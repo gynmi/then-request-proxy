@@ -1,0 +1,23 @@
+{
+  "name": "then-request-proxy",
+  "version": "0.0.1",
+  "description": "代理request",
+  "keywords": [],
+  "browser": "./browser.js",
+  "dependencies": {
+    "caseless": "~0.9.0",
+    "concat-stream": "^1.4.7",
+    "http-response-object": "^1.0.1",
+    "promise": "^6.0.1",
+    "qs": "^2.3.3"
+  },
+  "devDependencies": {
+    "browserify": "^8.1.1",
+    "exorcist": "^0.1.6",
+    "istanbul": "^0.3.5",
+    "minifyify": "^6.0.0",
+    "mkdirp": "^0.5.0",
+    "rimraf": "^2.2.8",
+    "testit": "^1.2.0"
+  }
+}
