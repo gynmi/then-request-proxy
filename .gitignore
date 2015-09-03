@@ -1,4 +1,6 @@
 .idea/
+.npmignore
+.gitignore
 node_modules/
 test/
 dist/
